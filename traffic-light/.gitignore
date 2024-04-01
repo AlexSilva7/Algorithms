@@ -1,0 +1,27 @@
+# Arquivos e pastas de compilação
+bin/
+obj/
+
+# Arquivos de configuração específicos do Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.vspscc
+*.vssscc
+*.pdb
+*.pidb
+
+# Arquivos de dependências NuGet
+packages/
+
+# Arquivos de build
+*.dll
+*.exe
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos de configuração específicos do ambiente
+*.sln.docstates

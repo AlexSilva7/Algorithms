@@ -12,3 +12,4 @@
 /home/dev/Git/Algorithms/traffic-light/obj/Debug/net8.0/traffic-light.pdb
 /home/dev/Git/Algorithms/traffic-light/obj/Debug/net8.0/traffic-light.genruntimeconfig.cache
 /home/dev/Git/Algorithms/traffic-light/obj/Debug/net8.0/ref/traffic-light.dll
+/home/dev/Git/Algorithms/traffic-light/obj/Debug/net8.0/traffic-light.sourcelink.json
